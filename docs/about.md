@@ -3,6 +3,8 @@ id: about
 title: About
 ---
 
+Connect with me!
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -19,7 +21,8 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Passionate Software Developer
+vGrace Hopper Celebration 2020 Attendee
 
 ## Recognition
 
